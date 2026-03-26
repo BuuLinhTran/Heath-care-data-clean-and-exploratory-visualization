@@ -1,2 +1,6 @@
 # Heath-care-data-clean-and-exploratory-visualization
-Python, Pandas, Numpy, Data clean up
+A Python project demonstrates my data cleaning skills with a small raw data set of 1000 rows curated from public data on GitHub. The data is similar to how clinical data is often collected - filled with inconsistency due to human errors! The end result will be a more presentable and clean dataset, along with graphs answering common stakeholders' questions. 
+1. Patient volumns trend?
+2. Which day-of-week is most crowded?
+3. Most common dianogsis over the year
+4. Did most patient received treatment?
