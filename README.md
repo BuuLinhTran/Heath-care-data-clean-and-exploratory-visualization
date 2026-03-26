@@ -4,5 +4,7 @@ A Python project demonstrates my data cleaning skills with a small raw data set 
 2. Which day-of-week is most crowded?
 3. Most common dianogsis over the year
 4. Did most patient received treatment?
+
+
 ![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_1.jpg
 )
