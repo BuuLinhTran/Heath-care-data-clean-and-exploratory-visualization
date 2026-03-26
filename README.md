@@ -6,5 +6,7 @@ A Python project demonstrates my data cleaning skills with a small raw data set 
 4. Did most patient received treatment?
 
 
-![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_1.jpg
-)
+![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_1.jpg)
+![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_2.jpg)
+![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_3.jpg)
+![Figures](https://github.com/BuuLinhTran/Heath-care-data-clean-and-exploratory-visualization/blob/main/Fig_4.jpg)
